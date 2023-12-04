@@ -1,3 +1,5 @@
+![Fixed Point Image](fixed-point.png)
+
 # noir-fixed-point
 ## Fixed point library for Aztec's noir language
 
