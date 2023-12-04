@@ -1,5 +1,3 @@
-use dep::std;
-
 struct FixedPoint {
     value: Field,
     scale: Field,
