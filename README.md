@@ -3,7 +3,7 @@
 # noir-fixed-point
 ## Fixed point library for Aztec's noir language
 
-The FixedPoint library offers precise fixed-point arithmetic operations tailored for Noir's unique environment, where every value is fundamentally composed of Field elements. This library is crucial for cryptographic contexts and applications that require exact decimal calculations, such as financial applications.
+The FixedPoint library offers precise fixed-point arithmetic operations tailored for Noir's unique environment, where every value is fundamentally composed of Field elements. This library is crucial for cryptographic contexts and applications that require exact decimal calculations, such as DeFi applications.
 
 ### Features
 
