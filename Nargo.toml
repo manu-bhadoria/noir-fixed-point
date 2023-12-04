@@ -1,0 +1,7 @@
+[package]
+name = "noir_fixed_point"
+type = "lib"
+authors = [""]
+compiler_version = ">=0.19.2"
+
+[dependencies]
